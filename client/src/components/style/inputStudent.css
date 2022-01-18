@@ -1,0 +1,27 @@
+.form__input{
+        font-size:15px;
+        font-family:cursive,sans-serif,gugi;
+        border-radius:10px;
+        margin-left:50px;
+        margin-top:20px;
+}
+.btn{
+       
+        border-radius:10px;
+        font-size: 19px ; 
+        font-family:cursive,sans-serif,gugi;
+        outline:none,;
+        color:white;
+        background-color:#000066;
+        margin-left:50px;
+        margin-top:20px;
+        width:435px;
+}
+.form__group{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
